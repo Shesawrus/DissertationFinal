@@ -1,0 +1,41 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  PhysicsClass.cpp
+c:\users\nicol\source\repos\dissertation\directx11base\PhysicsClass.h(77): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nicol\source\repos\dissertation\directx11base\PhysicsClass.h(78): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nicol\source\repos\dissertation\directx11base\PhysicsClass.h(81): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nicol\source\repos\dissertation\directx11base\PhysicsClass.h(99): warning C4305: 'argument': truncation from 'double' to 'float'
+PhysicsClass.cpp(25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+PhysicsClass.cpp(28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+PhysicsClass.cpp(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+PhysicsClass.cpp(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(113): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(117): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(135): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(422): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(424): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(426): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(454): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(455): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(456): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(578): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(644): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(645): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(646): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(660): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(666): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+PhysicsClass.cpp(687): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  61 of 828 functions ( 7.4%) were compiled, the rest were copied from previous compilation.
+    29 functions were new in current compilation
+    61 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DirectX11Base.vcxproj -> C:\Users\nicol\source\repos\Dissertation\DirectX11Base\..\x64\Release\CTP.exe
